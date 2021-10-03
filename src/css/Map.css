@@ -1,0 +1,9 @@
+.marker {
+  background-size: cover;
+  width: 100px;
+  height: 50px;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 300;
+  background-color: 'red';
+}
